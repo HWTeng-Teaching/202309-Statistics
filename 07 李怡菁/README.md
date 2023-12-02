@@ -10,5 +10,3 @@
 Date site: https://colab.research.google.com/drive/1ZWz1tkMZF54YDUYz0gc6luazUSjxF9Qm#scrollTo=MgK9nVbKcTiX
 
 ##照片
-<img src="https://upload.cc/i1/2023/11/30/vxKqu4.jpg" alt="樣品">
-
