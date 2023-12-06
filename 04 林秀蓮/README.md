@@ -14,5 +14,4 @@ US30Y
 TLT
 
 ## 連結
-https://www.investing.com/rates-bonds/u.s.-30-year-bond-yield-historical-data
-https://invest.cnyes.com/usstock/detail/TLT/market/minipricehistory#fixed
+https://docs.google.com/presentation/d/1e3ZTdZE_0ZV2WFeAste-ta5VdvL6YyDmFDUZRyoIuOU/edit#slide=id.g26140c67f22_0_1
