@@ -34,3 +34,28 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 價格變化幅度: 2% up
 出現機率(重現率): 90% up                   
 ### ※當成交量有50%的變動時，x天後的股價變動率達到2%以上的機率超過90%
+
+# 資料視覺化 Exploratory data analysis 2nd 
+
+
+
+
+# 決定xDay
+
+
+# xDay =Day+14
+
+
+# 驗證步驟
+
+
+
+# 驗證內容
+
+
+
+# 進階研究
+
+
+
+# 未來研究方向
