@@ -43,13 +43,15 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 ![](https://drive.usercontent.google.com/download?id=1jFT2EGLnWeY_424zl5QAe6vZxl_pIsOS&export=download&authuser=0&confirm=t&uuid=f482affd-d855-4d19-a57b-0e2cdba2aa49&at=APZUnTVHdZ4U1it8UoPd92l8qqRN:1702048112836)
 
-![]()
-
 # 決定xDay
+
+![](https://drive.usercontent.google.com/download?id=142kNF1WwWzqjwK_P9xdNRqj6fYe0iseS&export=download&authuser=0&confirm=t&uuid=b0d2bc05-c979-4c50-a1c2-7a8dcce21ebf&at=APZUnTXKpFWgbUFf_naXpbKGPY5E:1702050104904)
 
 ![](https://drive.usercontent.google.com/download?id=1wAAYuNrnWqidIDVUfAhuchw1TuXY0R5L&export=download&authuser=0&confirm=t&uuid=5bcf70fc-76c0-4747-a2d8-bf85ee1402bf&at=APZUnTW1VbE7AHQ8qVO8NpY1zSVK:1702048142367)
 
 # xDay =Day+14
+
+![]()
 
 ![](https://drive.usercontent.google.com/download?id=1OaY303nnVpREzk1jO0t0q0Dor1iJbDG6&export=download&authuser=0&confirm=t&uuid=46113a0e-8992-4bcb-97c8-2d792db4ce72&at=APZUnTVl0OaqDWWPwyB9RRVX65nx:1702048171951)
 
@@ -58,13 +60,18 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 
 # 驗證內容
-
+![]()
 
 
 # 進階研究
 
+![]()
+![]()
+![]()
+![]()
+![]()
 
-
+![]()
 # 未來研究方向
 ### 1.假設檢定給定條件不同，結果會有所差異，可做後續相關研究。
 ### 2.本案以2330成份股為例，後續可對其他股票做相同性研究分析。
