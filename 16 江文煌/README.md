@@ -5,8 +5,6 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 Project ppt link: https://drive.google.com/file/d/1tvI5QZrpuC_sy6TjDG8H6O_S-Cx3oQUv/view?usp=sharing
 
-Colab Link: https://drive.google.com/drive/folders/1tC0B4VnJdxcAbKWm6-DAaRzMGCQa1vTs?usp=sharing
-
 Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb3ZprNco843?usp=sharing
 
 ### ---------------------------------------------------------------------------------------
