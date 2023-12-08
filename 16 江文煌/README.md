@@ -18,9 +18,11 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
 
 # 資料視覺化 Exploratory data analysis 
-![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
+![](https://drive.usercontent.google.com/download?id=1UsUmrGchl5x52Ti9mqJw_Goq1hl7o-SF&export=download&authuser=0&confirm=t&uuid=2ebb16c4-e5ab-4773-9664-a1cc0e6d9a52&at=APZUnTUK_0og9BQhgptZspEDfKNv:1702047125350)
 
+![](https://drive.usercontent.google.com/download?id=1y-qGQA_yY2QSykP-y2J_ZK60EmiGHD_6&export=download&authuser=0&confirm=t&uuid=1c7d3178-8fb3-4468-8c12-0a65c5b2c8db&at=APZUnTWxY8w6OXC8WY7As8H-_kM6:1702047193750)
 
+![](https://drive.usercontent.google.com/download?id=1SalNDMV-W5oxgLka_w91PaHa0loA9cTG&export=download&authuser=0&confirm=t&uuid=577d4ca7-5c14-492a-8017-fa85dce6df9f&at=APZUnTWLCK0wm2-GGpkxwlnJMM9i:1702047222950)
 
 
 # 研究方法
