@@ -39,17 +39,22 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 # 資料視覺化 Exploratory data analysis 2nd 
 
+![](https://drive.usercontent.google.com/download?id=1pSfJDq0rUAAMfyTe0rOo5XuU3v6BHiLf&export=download&authuser=0&confirm=t&uuid=e9a046e7-2479-40f5-ab42-29baef1d0662&at=APZUnTWfggF0qejeBFLOEhfM0xIN:1702048081976)
 
+![](https://drive.usercontent.google.com/download?id=1jFT2EGLnWeY_424zl5QAe6vZxl_pIsOS&export=download&authuser=0&confirm=t&uuid=f482affd-d855-4d19-a57b-0e2cdba2aa49&at=APZUnTVHdZ4U1it8UoPd92l8qqRN:1702048112836)
 
+![]()
 
 # 決定xDay
 
+![](https://drive.usercontent.google.com/download?id=1wAAYuNrnWqidIDVUfAhuchw1TuXY0R5L&export=download&authuser=0&confirm=t&uuid=5bcf70fc-76c0-4747-a2d8-bf85ee1402bf&at=APZUnTW1VbE7AHQ8qVO8NpY1zSVK:1702048142367)
 
 # xDay =Day+14
 
+![](https://drive.usercontent.google.com/download?id=1OaY303nnVpREzk1jO0t0q0Dor1iJbDG6&export=download&authuser=0&confirm=t&uuid=46113a0e-8992-4bcb-97c8-2d792db4ce72&at=APZUnTVl0OaqDWWPwyB9RRVX65nx:1702048171951)
 
 # 驗證步驟
-
+![]()
 
 
 # 驗證內容
