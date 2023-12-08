@@ -9,7 +9,7 @@ Colab Link: https://drive.google.com/drive/folders/1tC0B4VnJdxcAbKWm6-DAaRzMGCQa
 
 Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb3ZprNco843?usp=sharing
 
-### ------------------------------------------------------------------------------------------
+### ---------------------------------------------------------------------------------------
 # 動機
 藉由統計分析看股票市場，並以0050成份股之量價影響變化情形，是否有量比價先行的存在關係。
 
