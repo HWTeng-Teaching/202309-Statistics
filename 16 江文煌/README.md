@@ -16,6 +16,6 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 # 資料收集
 
-![01](https://drive.google.com/file/d/1hh38bYzkU5klEkvzQbseGmVTKwkzZufe/view?usp=drive_link)
+![01.png](https://drive.google.com/file/d/1hh38bYzkU5klEkvzQbseGmVTKwkzZufe/view?usp=drive_link)
 
 
