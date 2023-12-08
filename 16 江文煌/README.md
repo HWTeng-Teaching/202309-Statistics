@@ -17,3 +17,12 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 # 資料收集
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
 
+# 資料視覺化 Exploratory data analysis 
+![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
+
+
+
+
+# 研究方法
+## 量比價先行
+### 以ㄧ檔0050成份股為研究標的，取一整個年度的交易資料。分析是否當成交量有相當變化幅度後，在某個時間點，會有相當幅度的價格變化幅度，而且此現象會存在非常高的出現機率。                    
