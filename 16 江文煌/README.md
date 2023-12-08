@@ -16,5 +16,6 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 # 資料收集
 以Python產生一個應用程式: StockPRICEs 
+
 輸入相關資訊以取得所需資料(RawData)
 
