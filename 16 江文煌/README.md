@@ -16,6 +16,6 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 # 資料收集
 
-![swot map](https://github.com/Jiang-Wen-Hwang/2023-Fall-Stat/assets/149866126/88665f5e-547f-4e71-b6f0-492d3f2b60c7)
+![swot map](https://drive.google.com/file/d/1hh38bYzkU5klEkvzQbseGmVTKwkzZufe/view?usp=drive_link)
 
 
