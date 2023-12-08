@@ -7,3 +7,4 @@ Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7u
 
 #動機
 藉由統計分析看股票市場，並以0050成份股之量價影響變化情形，是否有量比價先行的存在關係。
+# 股票市場-價與量的關係 (以0050成份股為例)
