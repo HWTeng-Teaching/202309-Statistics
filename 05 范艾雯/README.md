@@ -7,7 +7,7 @@ Project ppt link: https://drive.google.com/drive/u/0/folders/13xPpJ_vK_Ez3Ap8Nsy
 
 Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb3ZprNco843?usp=sharing
 
-![image](picture or gif url)
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/01.jpg)
 
 ## 動機
 藉由統計分析看股票市場，並以0050成份股之量價影響變化情形，是否有量比價先行的存在關係。
