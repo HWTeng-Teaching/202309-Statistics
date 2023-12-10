@@ -9,4 +9,4 @@
 ## 連結
 - Date site: https://colab.research.google.com/drive/1ZWz1tkMZF54YDUYz0gc6luazUSjxF9Qm#scrollTo=MgK9nVbKcTiX
 - Date site: https://colab.research.google.com/drive/1GR-l6oonU5zV3sGFwglq_MgO7SDUn0ty#scrollTo=0_3KCPGvBJTi&uniqifier=1
-- ##照片
+- ![image](![image](https://github.com/LeslyLee/2023-Fall-Stat/assets/149865963/6750b867-fbc6-49a4-9d30-f7e639920608))
