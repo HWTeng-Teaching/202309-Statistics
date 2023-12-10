@@ -3,7 +3,7 @@
 
 Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7uYFm?usp=sharing
 
-Project ppt link: https://drive.google.com/drive/u/0/my-drive
+Project ppt link: https://drive.google.com/file/d/1N9LAzmsDaIdmEJ2n3DevWMNW9o05u4NJ/view?usp=sharing
 
 Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb3ZprNco843?usp=sharing
 
