@@ -82,4 +82,4 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ### 3.透過本案統計分析結果，將應用於生活投資策略上，並可匯集同好，開發相關程式模組化，成立投資公司共同創業發展。
 
 ##  附件
-![image]([https://drive.google.com/drive/u/0/folders/1N9eIscWv3ISDiFp6fCo4OqJbHb7RydT])
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/26.jpg)
