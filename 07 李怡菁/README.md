@@ -4,7 +4,9 @@
 - 最後編輯日期:
 
 ## 動機
-疫情前後上櫃公司市值分怖是否有重大變化之探討
+-疫情前後上櫃公司市值分怖是否有重大變化之探討
+-高盛資產管理稱客戶無懼新興市場波動　仍投資相關市場
+
 
 ## 連結
 - Date site: https://colab.research.google.com/drive/1ZWz1tkMZF54YDUYz0gc6luazUSjxF9Qm#scrollTo=MgK9nVbKcTiX
