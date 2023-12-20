@@ -10,7 +10,7 @@
   - NASDAQ：全球最知名的科技股指之一，它代表著科技行業和成長型科技企業在股市中的表現，被廣泛用作衡量科技行業整體表現的基準，科技產業佔比高達6成
   - 考量美國與台灣時差，故以NASDAQ當日收盤價與隔日台指收盤價之連動性進行研究
     
-![](https://doc-14-3s-docs.googleusercontent.com/docs/securesc/j132q87qg08nbn34k72v0knorsh288b5/jkopb825a0qhk4j6k86di75n9fgmmkru/1703073675000/09554949075454121314/17144567015756320935Z/1zCfw01Zl79WTP5YYEl8rBtoVunURCwZq?e=download&uuid=06a6ae5b-a2b4-430a-9772-e5b2e61c019e&nonce=r21m1800hm8ik&user=17144567015756320935Z&hash=3jadb23at0um4irsrrvpenql451tsslm)
+![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
 
 
 
