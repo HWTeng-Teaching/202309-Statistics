@@ -7,5 +7,5 @@
 
 
 ## 連結
-* Google Slides: 
+* Google Slides: https://docs.google.com/presentation/d/1FscXTprs4kL5bNkIkTvdvQnH4S6QEZYvlkd2JaxRggY/edit?usp=sharing
 
