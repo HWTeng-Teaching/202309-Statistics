@@ -11,7 +11,7 @@
   - 考量美國與台灣時差，故以NASDAQ當日收盤價與隔日台指收盤價之連動性進行研究
     
 ![](https://doc-14-3s-docs.googleusercontent.com/docs/securesc/j132q87qg08nbn34k72v0knorsh288b5/27t2fbpgsftoepc5r88fct65h145u5tb/1703073900000/09554949075454121314/17144567015756320935Z/1zCfw01Zl79WTP5YYEl8rBtoVunURCwZq?e=download&uuid=44c3e54f-d927-4df1-b466-886bffc73e09)
-![image]https://drive.google.com/drive/folders/15n3H583g-yjJvRUAEqbTSZRufnCh9kP_
+![image](https://drive.google.com/drive/folders/15n3H583g-yjJvRUAEqbTSZRufnCh9kP_)
 
 
 ## 連結
