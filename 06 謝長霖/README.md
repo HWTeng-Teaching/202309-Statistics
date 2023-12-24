@@ -1,8 +1,11 @@
-# 探討房貸利率及房價對於房貸負擔率的影響
+# 物價是否會影響房價?
 - 作者：謝長霖
-- 創建日期：2023年11月14日
-- 最後編輯日期：2023年11月17日
+- 創建日期：2023年11月04日
+- 最後編輯日期：2023年12月06日
 
 ## 動機
-房地產市場一直以來都是經濟體系中的關鍵元素，而房貸負擔率則是評估個人或家庭負擔房貸負擔能力的一項重要指標。近年來，隨著經濟變動和房地產市場的波動，房貸利率和房價變動成為引起廣泛關注的焦點。
+物價每年持續上漲，房價的漲跌是否跟物價有關?
+
 ## 連結
+Google Slides:https://docs.google.com/presentation/d/1z0lzOeWDhV-SCBJbhLn3lcUeNKoxo_K0JlOKhiG9Tq8/edit?usp=sharing
+Colab:https://colab.research.google.com/drive/1gIQF5F4cVoA5XYt4krLDDz5OYK84vQqn?usp=sharing
