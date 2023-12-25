@@ -14,23 +14,41 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ### Gather Information：
 目前以元大台灣50(0050)成份股市值權重分布排名在前、中、後各3家，資料搜集期間為2022.11.10~2023.11.09近一年間的成交量與價之數值，初步分析各股間成交量與成交價的變化關係，並結合統計學Chapter 1之課程內容，劃出時間序列圖（Line charts）。
 
+
+
 # 資料收集
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
+
+
 
 # 資料視覺化 Exploratory data analysis 
 ![](https://drive.usercontent.google.com/download?id=1ZRCwuwX-FVnSKKAektZXAe5MmEW3yHjo&export=download&authuser=0&confirm=t&uuid=64ad2dd0-bd78-4d68-8d59-ddb3915dc409&at=APZUnTWmhY1zsQz3dpM3ab4wjN9h:1703471450021)
 
+
+
 # 研究方法
+
+
+
 ## 量比價先行
+
+
+
 ### 以ㄧ檔0050成份股為研究標的，取一整個年度的交易資料。分析是否當成交量有相當變化幅度後，在某個時間點，會有相當幅度的價格變化幅度，而且此現象會存在非常高的出現機率。                    
 
+
+
 # 研究變數定義與目標
+
+
 ## 研究標的: 2330.tw 台積電
 資料區間(一年)：2022.01.03~2022.12.30(交易日)
 成交量變化幅度: 50% up
 價格變化幅度: 2% up
 出現機率(重現率): 90% up                   
 ### ※當成交量有50%的變動時，x天後的股價變動率達到2%以上的機率超過90%
+
+
 
 # 資料視覺化 Exploratory data analysis 2nd 
 
@@ -69,3 +87,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ### 1.假設檢定給定條件不同，結果會有所差異，可做後續相關研究。
 ### 2.本案以2330成份股為例，後續可對其他股票做相同性研究分析。
 ### 3.透過本案統計分析結果，將應用於生活投資策略上，並可匯集同好，開發相關程式模組化，成立投資公司共同創業發展。
+
+# Search @ Youtube ~
+
+![](https://drive.usercontent.google.com/download?id=18KbToKD1FWaTHlOtRFkfKIROQAceDFCc&export=download&authuser=0&confirm=t&uuid=51f2c32f-b8b4-4464-af00-31799273c47d&at=APZUnTWgb1VcoPlb3BAj-qVcBRiO:1703471478459)
