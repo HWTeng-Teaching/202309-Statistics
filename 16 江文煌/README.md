@@ -13,7 +13,6 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 ## Gather Information：
 目前以元大台灣50(0050)成份股市值權重分布排名在前、中、後各3家，資料搜集期間為2022.11.10~2023.11.09近一年間的成交量與價之數值，初步分析各股間成交量與成交價的變化關係，並結合統計學Chapter 1之課程內容，劃出時間序列圖（Line charts）。
-#   
 
 # 資料收集
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
