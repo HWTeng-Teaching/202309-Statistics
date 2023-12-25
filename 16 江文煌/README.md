@@ -21,7 +21,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ![](https://drive.usercontent.google.com/download?id=1ZRCwuwX-FVnSKKAektZXAe5MmEW3yHjo&export=download&authuser=0&confirm=t&uuid=64ad2dd0-bd78-4d68-8d59-ddb3915dc409&at=APZUnTWmhY1zsQz3dpM3ab4wjN9h:1703471450021)  
 
 # 研究方法
-## 量比價先行
+### 量比價先行
 ### 以ㄧ檔0050成份股為研究標的，取一整個年度的交易資料。分析是否當成交量有相當變化幅度後，在某個時間點，會有相當幅度的價格變化幅度，而且此現象會存在非常高的出現機率。                    
 
 # 研究變數定義與目標
