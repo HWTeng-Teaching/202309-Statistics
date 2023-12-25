@@ -16,14 +16,19 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 # 資料收集
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
-### . 
+
+. 
 
 # 資料視覺化 Exploratory data analysis 
 ![](https://drive.usercontent.google.com/download?id=1ZRCwuwX-FVnSKKAektZXAe5MmEW3yHjo&export=download&authuser=0&confirm=t&uuid=64ad2dd0-bd78-4d68-8d59-ddb3915dc409&at=APZUnTWmhY1zsQz3dpM3ab4wjN9h:1703471450021)  
 
+.
+
 # 研究方法
 ### 量比價先行
 ### 以ㄧ檔0050成份股為研究標的，取一整個年度的交易資料。分析是否當成交量有相當變化幅度後，在某個時間點，會有相當幅度的價格變化幅度，而且此現象會存在非常高的出現機率。                    
+
+.
 
 # 研究變數定義與目標
 ###   
@@ -35,16 +40,21 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ###   
 ### ※當成交量有50%的變動時，x天後的股價變動率達到2%以上的機率超過90%
 
-### .
+.
+
 # 資料視覺化 Exploratory data analysis 2nd 
 
 ![](https://drive.usercontent.google.com/download?id=12vumd432NnvzfiUb-fl3b0P10pOilYpb&export=download&authuser=0&confirm=t&uuid=120808f9-0d56-42f9-9e52-fb647d80faba&at=APZUnTVwC5vBy9t7tl8YScZZ7-F7:1703475897182)
+
+ .
  
 # 決定xDay
  
 ![](https://drive.usercontent.google.com/download?id=142kNF1WwWzqjwK_P9xdNRqj6fYe0iseS&export=download&authuser=0&confirm=t&uuid=b0d2bc05-c979-4c50-a1c2-7a8dcce21ebf&at=APZUnTXKpFWgbUFf_naXpbKGPY5E:1702050104904)
 
 ![](https://drive.usercontent.google.com/download?id=1wAAYuNrnWqidIDVUfAhuchw1TuXY0R5L&export=download&authuser=0&confirm=t&uuid=5bcf70fc-76c0-4747-a2d8-bf85ee1402bf&at=APZUnTW1VbE7AHQ8qVO8NpY1zSVK:1702048142367)
+
+.
 
 # xDay =Day+14
 
