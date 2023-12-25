@@ -62,10 +62,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 ![](https://drive.usercontent.google.com/download?id=1-oBnV0GNSWdQZpOew1TcPlAW7Od2IZNV&export=download&authuser=0&confirm=t&uuid=c5b7898d-c3d9-4854-97d6-bc91e2be87fa&at=APZUnTWnRgC98z0OQGbh68io0-85:1702050308949)
 
-![](https://drive.usercontent.google.com/download?id=1P5zbqlUBHChvsvxKu9gk7ecw0-SVCKu2&export=download&authuser=0&confirm=t&uuid=5d1b01eb-aa7a-4920-b0bf-aedde3b4a9df&at=APZUnTX0lcjV4psktygdpUQPxTsr:1702050312634)
-
-
-![](https://drive.usercontent.google.com/download?id=1WojGex6RPVrDX7nZEanLCdmg4BgGg8wN&export=download&authuser=0&confirm=t&uuid=f4cde6b1-0832-4510-b2da-4b39aada62fc&at=APZUnTVJh1e1v_Ky-yZ5U3ZCnXQE:1702050320523)
+![](https://drive.usercontent.google.com/download?id=1Xd_SHiyePFkeVmOQwTuziHoYCccXRQQP&export=download&authuser=0&confirm=t&uuid=0882711d-c83c-4347-a302-2f2a53be044a&at=APZUnTXIsmDeRMvh9Z8M4Zxpxz7V:1703471466203)
 
 ![]()
 # 未來研究方向
