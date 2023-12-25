@@ -9,9 +9,10 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 影片連結: https://youtu.be/qlo21SVhb5E
 
 ### ---------------------------------------------------------------------------------------
+![](https://drive.usercontent.google.com/download?id=1gNC7d9x9R_xYm5aopOpOpNiAhSF89B9J&export=download&authuser=0&confirm=t&uuid=cb6f46df-30ae-4845-92ff-7f1a57decd3a&at=APZUnTX7VMzajaucMwvAXYJof7jh:1703471428483)
 # 動機
 藉由統計分析看股票市場，並以0050成份股之量價影響變化情形，是否有量比價先行的存在關係。
-
+https://drive.usercontent.google.com/download?id=1gNC7d9x9R_xYm5aopOpOpNiAhSF89B9J&export=download&authuser=0&confirm=t&uuid=cb6f46df-30ae-4845-92ff-7f1a57decd3a&at=APZUnTX7VMzajaucMwvAXYJof7jh:1703471428483
 ### Gather Information：
 目前以元大台灣50(0050)成份股市值權重分布排名在前、中、後各3家，資料搜集期間為2022.11.10~2023.11.09近一年間的成交量與價之數值，初步分析各股間成交量與成交價的變化關係，並結合統計學Chapter 1之課程內容，劃出時間序列圖（Line charts）。
 
