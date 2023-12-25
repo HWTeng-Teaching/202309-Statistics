@@ -35,8 +35,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ###   
 ### ※當成交量有50%的變動時，x天後的股價變動率達到2%以上的機率超過90%
 
-
-
+### .
 # 資料視覺化 Exploratory data analysis 2nd 
 
 ![](https://drive.usercontent.google.com/download?id=12vumd432NnvzfiUb-fl3b0P10pOilYpb&export=download&authuser=0&confirm=t&uuid=120808f9-0d56-42f9-9e52-fb647d80faba&at=APZUnTVwC5vBy9t7tl8YScZZ7-F7:1703475897182)
