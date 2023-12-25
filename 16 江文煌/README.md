@@ -60,6 +60,8 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 ![](https://drive.usercontent.google.com/download?id=1OaY303nnVpREzk1jO0t0q0Dor1iJbDG6&export=download&authuser=0&confirm=t&uuid=46113a0e-8992-4bcb-97c8-2d792db4ce72&at=APZUnTVl0OaqDWWPwyB9RRVX65nx:1702048171951)
 
+.
+
 # 驗證步驟
   
 ![](https://drive.usercontent.google.com/download?id=15Z5a8dSE1mVVP1hhvn8jskwpbFXNx1lQ&export=download&authuser=0&confirm=t&uuid=55f114af-acf3-4aeb-a4b1-f86a24e14a88&at=APZUnTX2D5CTomOnlFCOlKup6IQu:1702050301858)
@@ -67,6 +69,8 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 # 
  
 ![](https://drive.usercontent.google.com/download?id=1ROJUNP7oWbwOcYK32G8xTYjfPZQMqmhW&export=download&authuser=0&confirm=t&uuid=dc20e272-027c-43d2-b172-97ac48d2c743&at=APZUnTUFSnwS0rGEPdVeNlCIeApy:1703471457960)
+
+ .
  
 # 進階研究
  
@@ -74,10 +78,14 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ###   
 ![](https://drive.usercontent.google.com/download?id=1Xd_SHiyePFkeVmOQwTuziHoYCccXRQQP&export=download&authuser=0&confirm=t&uuid=0882711d-c83c-4347-a302-2f2a53be044a&at=APZUnTXIsmDeRMvh9Z8M4Zxpxz7V:1703471466203)  
 
+.
+
 # 未來研究方向
 ### 1.假設檢定給定條件不同，結果會有所差異，可做後續相關研究。
 ### 2.本案以2330成份股為例，後續可對其他股票做相同性研究分析。
 ### 3.透過本案統計分析結果，將應用於生活投資策略上，並可匯集同好，開發相關程式模組化，成立投資公司共同創業發展。
+
+  .
   
 # Search @ Youtube ~
 
