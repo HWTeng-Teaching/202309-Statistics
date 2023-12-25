@@ -56,7 +56,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 # 驗證內容
 
-![](https://drive.usercontent.google.com/download?id=1lmAlhazE0QYjSGGOgdNVVGyocDilc4yv&export=download&authuser=0&confirm=t&uuid=49a839b9-6bd6-4fd9-915e-63eb923cfa94&at=APZUnTVatLPvDtVat97qi2ZxvzBX:1702050306027)
+![](https://drive.usercontent.google.com/download?id=1ROJUNP7oWbwOcYK32G8xTYjfPZQMqmhW&export=download&authuser=0&confirm=t&uuid=dc20e272-027c-43d2-b172-97ac48d2c743&at=APZUnTUFSnwS0rGEPdVeNlCIeApy:1703471457960)
 
 # 進階研究
 
@@ -64,9 +64,6 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 ![](https://drive.usercontent.google.com/download?id=1P5zbqlUBHChvsvxKu9gk7ecw0-SVCKu2&export=download&authuser=0&confirm=t&uuid=5d1b01eb-aa7a-4920-b0bf-aedde3b4a9df&at=APZUnTX0lcjV4psktygdpUQPxTsr:1702050312634)
 
-![](https://drive.usercontent.google.com/download?id=17khxTUm1HQpQl8nDSvD9J_y_H59PMHVm&export=download&authuser=0&confirm=t&uuid=ae726905-c7f8-4115-b36e-69343a486e72&at=APZUnTW_koqOk52nfs9vu0hWUSkR:1702050315302)
-
-![](https://drive.usercontent.google.com/download?id=16HO8MV-eNXrZ_BKHOrGsV0i6xz28HOQP&export=download&authuser=0&confirm=t&uuid=bb4fdf1c-e36f-4d9d-978f-f9e6a7ab9e61&at=APZUnTU-Rb-MwvxNyemtF5oc0OZN:1702050318001)
 
 ![](https://drive.usercontent.google.com/download?id=1WojGex6RPVrDX7nZEanLCdmg4BgGg8wN&export=download&authuser=0&confirm=t&uuid=f4cde6b1-0832-4510-b2da-4b39aada62fc&at=APZUnTVJh1e1v_Ky-yZ5U3ZCnXQE:1702050320523)
 
