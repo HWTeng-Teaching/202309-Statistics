@@ -26,7 +26,7 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 # 研究變數定義與目標
 ###   
-## 研究標的: 2330.tw 台積電
+### 研究標的: 2330.tw 台積電
 資料區間(一年)：2022.01.03~2022.12.30(交易日)
 成交量變化幅度: 50% up
 價格變化幅度: 2% up
