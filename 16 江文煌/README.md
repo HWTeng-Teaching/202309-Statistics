@@ -16,7 +16,9 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
 # 資料收集
 ![](https://drive.usercontent.google.com/download?id=1hh38bYzkU5klEkvzQbseGmVTKwkzZufe&export=download&authuser=0&confirm=t&uuid=4b1ba333-86c9-429f-8a24-8741680fc3fd&at=APZUnTWJiAF9VSEcYBTRjGonMIf2:1702045588861)
-###   
+###  
+###
+###
 # 資料視覺化 Exploratory data analysis 
 ![](https://drive.usercontent.google.com/download?id=1ZRCwuwX-FVnSKKAektZXAe5MmEW3yHjo&export=download&authuser=0&confirm=t&uuid=64ad2dd0-bd78-4d68-8d59-ddb3915dc409&at=APZUnTWmhY1zsQz3dpM3ab4wjN9h:1703471450021)  
 
