@@ -4,6 +4,7 @@
 - 最後編輯日期：2023年12月20日
    
 ![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/001.png)
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/002.png)
 
 
 ## 連結
