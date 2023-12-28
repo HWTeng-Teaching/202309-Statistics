@@ -6,8 +6,11 @@
 ![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/001.png)
 ![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/002.png)
 ![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/003.png)
-
-
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/004.png)
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/005.png)
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/006.png)
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/007.png)
+![image](https://github.com/annas9160521/2023-Fall-Stat/blob/main/10%20%E6%96%BD%E6%83%A0%E5%85%83/008.png)
 ## 連結
 * Google Slides: https://docs.google.com/presentation/d/1FscXTprs4kL5bNkIkTvdvQnH4S6QEZYvlkd2JaxRggY/edit?usp=sharing
 
