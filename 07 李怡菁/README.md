@@ -4,9 +4,10 @@
 - 最後編輯日期:
 
 ## 動機
-疫情前後上櫃公司市值分怖是否有重大變化之探討
+- 喜歡選擇「高配息」的境外基金，以好的淨值和匯率，才有機會取得真正的高報酬
+
 
 ## 連結
-Date site: https://colab.research.google.com/drive/1ZWz1tkMZF54YDUYz0gc6luazUSjxF9Qm#scrollTo=MgK9nVbKcTiX
-
-##照片
+- Date site: https://docs.google.com/presentation/d/109IjqxQjlyA5PYU5E2HTO-MSr1ABzPGhIDKavkS7GP8/edit#slide=id.p
+  
+- ![image](）
