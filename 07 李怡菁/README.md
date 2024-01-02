@@ -10,4 +10,4 @@
 ## 連結
 - Date site: https://docs.google.com/presentation/d/109IjqxQjlyA5PYU5E2HTO-MSr1ABzPGhIDKavkS7GP8/edit#slide=id.p
   
-- ![image](https://github.com/LeslyLee/2023-Fall-Stat/assets/149865963/6750b867-fbc6-49a4-9d30-f7e639920608)
+- ![image](）
