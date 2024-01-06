@@ -14,5 +14,4 @@ US30Y
 TLT
 
 ## 連結
-Google slides 
 https://docs.google.com/presentation/d/1e3ZTdZE_0ZV2WFeAste-ta5VdvL6YyDmFDUZRyoIuOU/edit#slide=id.g26140c67f22_0_1
