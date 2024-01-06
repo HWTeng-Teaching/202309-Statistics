@@ -2,7 +2,7 @@
 
 - 作者：林秀蓮  
 - 創建日期：2023年11月04日  
-- 最後編輯日期：2024年1月1日  
+- 最後編輯日期：2024年1月6日  
 
 ## 動機
 因應通膨數據大幅上升，聯準會啟動了暴力式的升息循環，想要探討利率的變動，如何影響債券價格？
@@ -14,4 +14,4 @@ US30Y
 TLT
 
 ## 連結
-https://docs.google.com/presentation/d/1e3ZTdZE_0ZV2WFeAste-ta5VdvL6YyDmFDUZRyoIuOU/edit#slide=id.g26140c67f22_0_1
+Google slides https://docs.google.com/presentation/d/1e3ZTdZE_0ZV2WFeAste-ta5VdvL6YyDmFDUZRyoIuOU/edit#slide=id.g26140c67f22_0_1
