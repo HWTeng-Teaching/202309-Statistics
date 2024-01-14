@@ -1,6 +1,10 @@
 # 股票市場-價與量的關係 (以0050成份股為例)
-512717009 范艾雯 / 512717024 江文煌 / Advisor 鄧惠文 
 
+- 作者：512717009 范艾雯 / 512717024 江文煌 / Advisor 鄧惠文
+- Github創建日期：2023年11月04日
+- 專案完成日期：2023年11月25日
+- Github最後編輯日期：2024年01月14日
+ 
 Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7uYFm?usp=sharing
 
 Project ppt link: https://drive.google.com/file/d/1VOX8BKsV993_yxkrErzVrNKbnF1KAQnV/view?usp=sharing
@@ -87,11 +91,15 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 
   .
   
-# Search @ Youtube ~
+# 
 
 ![](https://drive.usercontent.google.com/download?id=18KbToKD1FWaTHlOtRFkfKIROQAceDFCc&export=download&authuser=0&confirm=t&uuid=51f2c32f-b8b4-4464-af00-31799273c47d&at=APZUnTWgb1VcoPlb3BAj-qVcBRiO:1703471478459)
 ##  附件
-![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/25.jpg)
-![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/26.jpg)
-![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/27.jpg)
-![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/28.jpg)
+### A: p(x) pre-CHECKs
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/26.jpg)
+### B: x-Days raw data CHECKs
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/25.jpg)
+### C: x-Days Raw data-to-Table
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/27.jpg)
+### D: x-Day Table-to-Chart
+ ![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/28.jpg)
