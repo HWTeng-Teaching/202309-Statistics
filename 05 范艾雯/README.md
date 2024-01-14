@@ -96,6 +96,6 @@ Python code link: https://drive.google.com/drive/folders/1AS1_2CAsnAvm7qbc5I6CRb
 ![](https://drive.usercontent.google.com/download?id=18KbToKD1FWaTHlOtRFkfKIROQAceDFCc&export=download&authuser=0&confirm=t&uuid=51f2c32f-b8b4-4464-af00-31799273c47d&at=APZUnTWgb1VcoPlb3BAj-qVcBRiO:1703471478459)
 ##  附件
 ![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/25.jpg)
-![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/26.jpg)
+![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/DATAsFiles/Photos/26.jpg)
 ![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/27.jpg)
 ![image](https://github.com/evan7352/2023-Fall-Stat/blob/main/05%20%E8%8C%83%E8%89%BE%E9%9B%AF/28.jpg)
