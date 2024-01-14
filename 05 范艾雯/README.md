@@ -1,6 +1,10 @@
 # 股票市場-價與量的關係 (以0050成份股為例)
-512717009 范艾雯 / 512717024 江文煌 / Advisor 鄧惠文 
 
+- 作者：512717009 范艾雯 / 512717024 江文煌 / Advisor 鄧惠文
+- Github創建日期：2023年11月04日
+- 專案完成日期：2023年11月25日
+- Github最後編輯日期：2024年01月14日
+ 
 Data link: https://drive.google.com/drive/folders/1iiufHPsDV5xPbTk0ZkSwnve9N2f7uYFm?usp=sharing
 
 Project ppt link: https://drive.google.com/file/d/1VOX8BKsV993_yxkrErzVrNKbnF1KAQnV/view?usp=sharing
