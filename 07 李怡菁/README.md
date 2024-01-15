@@ -10,4 +10,4 @@
 ## 連結
 - Date site: https://docs.google.com/presentation/d/109IjqxQjlyA5PYU5E2HTO-MSr1ABzPGhIDKavkS7GP8/edit#slide=id.p
   
-- ![image](）
+- colab:https://colab.research.google.com/drive/1GR-l6oonU5zV3sGFwglq_MgO7SDUn0ty
