@@ -5,6 +5,7 @@
 
 ## Motivation
 時任內政部部長的徐國勇及媒體報導都曾稱房地產是台灣經濟的火車頭，藉本次報告實際以資料觀察台灣GDP與房價的關聯性。
+
 <img width="416" alt="圖片1" src="https://github.com/jnh14/2023-Fall-Stat/assets/149865884/e2f942aa-9e1c-4a82-8492-0a4bb2ff48fb">
 
 ## Data
@@ -25,23 +26,24 @@ Based on the above graphs, it seems that no positive relationship is shown.
 ## Formulation
 Assume the variable y is the growth rate of GDP, and the variable x is the growth rate of nationwide housing price index.
 1. The probabilistic model is constructed as: y = ∝ + ßx + ε
-2. Set up H0: ß = 0 versus H1: ß ≠ 0
+2. Set up H<sub>0</sub>: ß = 0 versus H<sub>1</sub>: ß ≠ 0
 3. The significance level is 0.05.
-4. The test statistic tSTAT =  (b-0)/(MSE/Sxx) , which has a t distribution with df=39.
+4. The test statistic t<sub>STAT</sub> =  $`(b-0)/\sqrt{MSE/Sxx}`$ , which has a t distribution with df=39.
 5. Rejection region {t: |t|>2.023} = {t>2.023 or t<-2.023}
 
 ## Analysis
-H0  can not be rejected since the observed value of t doesn’t fall in the rejection region.
+H<sub>0</sub> can not be rejected since the observed value of t doesn’t fall in the rejection region.
 Besides, R square is close to 0, meaning the relationship between x and y is very week.
 
 The model is not useful in the prediction of y.
 
 ## Conclusion
 Based on the data, the growth rate of GDP is not linearly related to the growth rate of nationwide housing price index.
-However, it is possible that one or more unknown variables that have not been included in the analysis may cause a linear relationship.
-In addition, GDP growth rate has a wider fluctuation than housing price index on the seasonal basis.
-Seasonality in GDP growth should also be taken into account.
 
+However, it is possible that one or more unknown variables that have not been included in the analysis may cause a linear relationship.
+
+In addition, Figure 3 shows GDP growth rate has a wider fluctuation than housing price index on the seasonal basis.
+Seasonality in GDP growth should also be taken into account.
 
 ## Link
 Google Slides: https://docs.google.com/presentation/d/1yX2LlSQ_fD5FGOHGQzxgqQS-pqFW82edgj9wB0P1e8c/edit#slide=id.p
