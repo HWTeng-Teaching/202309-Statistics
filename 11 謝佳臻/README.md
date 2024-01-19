@@ -31,8 +31,14 @@ Assume the variable y is the growth rate of GDP, and the variable x is the growt
 4. The test statistic t<sub>STAT</sub> =  $`(b-0)/\sqrt{MSE/Sxx}`$ , which has a t distribution with df=39.
 5. Rejection region {t: |t|>2.023} = {t>2.023 or t<-2.023}
 
+We create ANOVA table using data analysis tool in Excel.
+
+<img width="201" alt="圖片6" src="https://github.com/jnh14/2023-Fall-Stat/assets/149865884/ccec8d28-fbf2-4cb6-b425-8e9922a98771">
+<img width="416" alt="圖片7" src="https://github.com/jnh14/2023-Fall-Stat/assets/149865884/d57b7f6f-d3ca-435d-8df0-edbb7e2c2781">
+
 ## Analysis
-H<sub>0</sub> can not be rejected since the observed value of t doesn’t fall in the rejection region.
+H<sub>0</sub> can not be rejected since the observed value of t doesn’t fall in the rejection region (p-value not less than the significane level, either).
+
 Besides, R square is close to 0, meaning the relationship between x and y is very week.
 
 The model is not useful in the prediction of y.
